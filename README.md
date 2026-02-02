@@ -29,7 +29,7 @@ I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world p
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
-* Learning some AI:intelligence: by using AI.
+* Learning AI:intelligence: by using AI😉.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
