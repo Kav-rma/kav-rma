@@ -41,7 +41,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 * Adapting the minimalism life style
 * 🔜
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ### Languages and Tools:
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
