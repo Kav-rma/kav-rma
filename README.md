@@ -17,11 +17,11 @@ I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world p
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-kavyasharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-sharma-799220280/)
-<!-- [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma -->)
 [![LeetCode](https://img.shields.io/badge/-Kavya-islamicgreen?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Kav-rma/)
-<!-- [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120) -->
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 [![Gmail](https://img.shields.io/badge/-Kavya-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kavya4002sharma@gmail.com)
+<!-- [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma -->)
+<!-- [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120) -->
+<!-- ![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=kav-rma&style=flat)
