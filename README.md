@@ -54,15 +54,15 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
 
-<br />
 <!-- Stats -->
----
+<br>
+<br>
 <div class="badges-githubstats">
   <img src="https://github-readme-stats.vercel.app/api?username=kav-rma&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="kavya's github statistics" height="140" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kav-rma&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="kavya's github commit streak" height="140" />
 </div>
----
-<br />
+<br>
+<br>
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
