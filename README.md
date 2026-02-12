@@ -57,9 +57,9 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <!-- Stats -->
 <br>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=kav-rma\&theme=shadow_green\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=kav-rma\&theme=shadow_green\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kav-rma\&theme=shadow_green\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kav-rma&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=kav-rma&theme=shadow_green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kav-rma&theme=shadow_green&hide_border=false&layout=compact)
 <br>
 <br>
 
