@@ -68,8 +68,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 
 :star: From [Kavya Sharma](https://github.com/kav-rma)
 
-<!-- ![github-metrics](./calendar.svg) -->
-
+![METRICS](./github-metrics.svg)
 
 <!--
 **Kav-rma/kav-rma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
