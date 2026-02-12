@@ -68,7 +68,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 
 :star: From [Kavya Sharma](https://github.com/kav-rma)
 
-![github-metrics](./calendar.svg)
+<!-- ![github-metrics](./calendar.svg) -->
 
 
 <!--
