@@ -70,6 +70,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 
 ![Metrics](https://raw.githubusercontent.com/kav-rma/kav-rma/main/calendar.svg)
 
+![Metrics](./calendar.svg)
 
 
 <!--
