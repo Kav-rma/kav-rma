@@ -18,7 +18,7 @@ jobs:
           user: kav-rma
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Karachi
+          config_timezone: Asia/Kolkata
           
           # Isocalendar plugin
           plugin_isocalendar: yes

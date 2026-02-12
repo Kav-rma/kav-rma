@@ -64,11 +64,11 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <br>
 <br>
 
+![METRICS](./github-metrics.svg)
+
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
 :star: From [Kavya Sharma](https://github.com/kav-rma)
-
-![METRICS](./github-metrics.svg)
 
 <!--
 **Kav-rma/kav-rma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
