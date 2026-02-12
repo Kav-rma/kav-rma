@@ -57,10 +57,9 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <!-- Stats -->
 <br>
 <br>
-<div class="badges-githubstats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kav-rma&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="kavya's github statistics" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kav-rma&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="kavya's github commit streak" height="140" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=kav-rma\&theme=shadow_green\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=kav-rma\&theme=shadow_green\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kav-rma\&theme=shadow_green\&hide_border=false\&layout=compact)
 <br>
 <br>
 
