@@ -10,6 +10,12 @@ githubUsername: 'kav-rma'
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 
+<!-- Stats -->
+<div class="badges-githubstats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kav-rma&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="kavya's github statistics" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kav-rma&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="kavya's github commit streak" height="140" />
+</div>
+
 <!--Introduction -->
 I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
