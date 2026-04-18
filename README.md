@@ -64,7 +64,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <br>
 <br>
 
-![METRICS](./github-metrics.svg)
+<!-- ![METRICS](./github-metrics.svg) -->
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
