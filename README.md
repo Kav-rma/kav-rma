@@ -11,7 +11,7 @@ githubUsername: 'kav-rma'
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software :computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -32,11 +32,11 @@ I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world p
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having lots of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further.
+Since the world is running very fast, and I don't have enough time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further.
 
-* Learn to code:man_technologist: 1-2 hours a day with no distraction ( One or two day off a week. ) 
-* Read:news: Dev and AI articles daily 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Learn to code :man_technologist: 1-2 hours a day with no distraction ( One or two day off a week. ) 
+* Read :news: Dev and AI articles daily 
+* Avoid spending too much time on Youtube Entertainment :skull_and_crossbones:
 * Adapting the minimalism life style
 * 🔜
 
