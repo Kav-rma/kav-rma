@@ -27,8 +27,8 @@ I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world p
 ![](https://komarev.com/ghpvc/?username=kav-rma&style=flat)
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning AI:intelligence: by using AI😉.
+* Learning Front-End Web :computer: Development
+* Learning AI :intelligence: by using AI😉.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
