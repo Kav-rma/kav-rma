@@ -34,7 +34,8 @@ I'm kavya! I'm a **Undergrade Student**:iphone:, looking to solve **real-world p
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is running very fast, and I don't have enough time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further.
 
-* Learn to code :man_technologist: 2-3 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code :man_technologist: 2-3 hours a day with no distraction (One or two day off a week.)
+* Then rest of my day, work on my open-source project.  
 * Read :news: Dev and AI articles. 
 * Avoid spending too much time on Youtube Entertainment :skull_and_crossbones:
 * Adapting the minimalism life style.
